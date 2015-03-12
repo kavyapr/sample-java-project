@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>@groupId@</groupId>
   <artifactId>@artifactId@</artifactId>
-  <version>@version@</version>
+  <version>@version@</version>dxfgxb
   <packaging>jar</packaging>
 
   <name>@ant.project.name@</name>
@@ -31,5 +31,5 @@
       <url>http://nullprogram.com</url>
       <timezone>-5</timezone>
     </developer>
-  </developers>
+  </developers>ert55retr
 </project>
