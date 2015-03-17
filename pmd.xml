@@ -6,6 +6,6 @@
 f  <rule ref="rulesets/java/unnecessary.xml">
     <!-- Ignores readability concerns. Very bad.-->ethfest5tg
     <exclude name="UselessParentheses"/>
-  </rule>
+  </rule>dfsgest
   <rule ref="rulesets/java/unusedcode.xml"/>
 </ruleset>
