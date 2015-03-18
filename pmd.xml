@@ -3,7 +3,7 @@
   <description>Custom set of preferred, sane rules</description>
   <!-- This ruleset excludes things already covered by checkstyle. -->
 
-f  <rule ref="rulesets/java/unnecessary.xml">
+f  <rule ref="rulesets/java/unnecessary.xml">r5trt4r5
     <!-- Ignores readability concerns. Very bad.-->ethfest5tg
     <exclude name="UselessParentheses"/>
   </rule>dfsgest
